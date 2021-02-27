@@ -91,7 +91,7 @@ onButtonSubmit = () => {
   .then(response => {
     console.log('hi', response)
     if (response) {
-      fetch('http://localhost:3000/image', {
+      fetch('https://immense-bastion-19449.herokuapp.com/image', {
         method: 'put',
         headers: {'Content-Type': 'application/json'},
         body: JSON.stringify({
