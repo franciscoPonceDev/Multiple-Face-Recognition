@@ -2,8 +2,7 @@
 
 # Multiple Faces Recognition
 
-> This is a cool Face recognition app! You can register/signin with your e-mail and paste the url of any image. The app will detect faces in the images and put a box arround it. It is a fully responsive website. The frontend was built using React, it uses an image recognition API, has it own server using Node and Express and it's database is PostgreSQL.
-
+> This is a cool Face recognition app! You can register/sign in with your e-mail and paste the URL of any image. The app will detect faces in the images and put a box around them. It is a fully responsive website. The frontend was built using React, it uses an image recognition API, has its server using Node and Express and its database is PostgreSQL.
 
 ## Built With
 
